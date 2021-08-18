@@ -1,14 +1,11 @@
 # Load pages with react-router-dom
 
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/Load-pages-react-router-dom.jpg)](https://demos.ideas2code.io/load-pages-with-react-router-dom/)
+
+[![enter image description here](https://user-images.githubusercontent.com/9513390/129836805-30f99c31-0f7e-4d46-a77e-efb595a99afb.jpg)](https://demos.ideas2code.io/load-pages-with-react-router-dom/)
 
 A single-page application (SPA) is a web application or website that interacts with the web browser by dynamically rewriting the current web page with new data from the web server, instead of the default method of the browser loading entire new pages.
 
 SPA is the main feature of reactjs, so let's load pages using react-router-dom.
-
-## Sponsor
-
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Objetive
 
